@@ -47,3 +47,6 @@ modific ecx cu valoarea din INDEX si ma intorc la parcurgerea sirului.
 Daca se ajunge la lungimea sirului cautat, atunci este gasit si se
 returneaza valoarea din INDEX. Daca se termina loop ul fara a se
 gasi acel sir, atunci se returneaza lungimea sirului + 1.
+
+
+Problema 5, bin to hex, nefunctionala
